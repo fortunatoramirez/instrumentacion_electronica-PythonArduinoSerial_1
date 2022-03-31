@@ -1,1 +1,1 @@
-# instrumentacion_electronica-PythonArduinoSerial_1
+# Instrumentación Electronica - Python-Arduino Comunicación Serial 1
